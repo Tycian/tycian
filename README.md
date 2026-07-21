@@ -10,18 +10,10 @@ Hey there! 👋<br>I'm Berkay, a software developer<br><br>I build things, break
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Tycian&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Tycian&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tycian&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tycian&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Tycian&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 [![](https://komarev.com/ghpvc/?username=Tycian&icon=6&color=blue)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
