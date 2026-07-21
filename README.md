@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey there! 👋
 
-<!--
-**Tycian/tycian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Berkay, a software developer
 
-Here are some ideas to get you started:
+I build things, break things, and (eventually) fix things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working full-time as a developer 
+
+My main tech stack is [JavaScript, Node.js, HTML, Flutter, C#, C++]. My favorite tools are VS Code, Postman, and way too much coffee.
+
+I've got a bunch of projects I'm proud of, check out my pinned repos below.
+
+I'm always learning something new — right now that's [React development / databases].
+
+**Fun Facts:**
+- I project is work full-time — sleep is optional 😅
+- My favorite part of coding is [Learning and Debug]
+- **Hobbies:** [Create game, Create 3D Model, Writing a Code]
