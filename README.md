@@ -22,6 +22,6 @@ Hey there! 👋<br>I'm Berkay, a software developer<br><br>I build things, break
 ![](https://github-contributor-stats.vercel.app/api?username=Tycian&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Tycian&icon=6&color=2)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Tycian&icon=6&color=blue)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
